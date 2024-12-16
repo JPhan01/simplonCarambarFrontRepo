@@ -1,0 +1,29 @@
+body{
+    
+    background-image:url("backgroundPicture/backgroundAllJokes.jpg") ;
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+}
+.firstButton{
+    border:1px solid #ff009d;
+    width: 25%;
+}
+a:hover {
+    color: black;
+}
+.returnButton{
+    border:3px solid #ff009d;
+    border-radius: 10px;
+    box-shadow: #ff009d 5px 5px ;
+    width: 7%;
+    position:relative;
+    top:  700px ;
+}
+p{  color : #ff009d;
+    font-size: 2em;
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-shadow:  1px 1px 1px black;
+}
